@@ -1,6 +1,7 @@
-name = "punchmadezombie" 
+name = "dieegoat" 
 type = "pages"
 
 [build]
 command = ""  # Leave empty for static files
-directory = "./C:/Users/RTX 3060/Documents/website" 
+directory = ".PUT YOUR PROJECT directory HERE" 
+
